@@ -33,5 +33,12 @@
     "description": "Standalone implementation of Zygisk",
     "author": "The PerformanC Organization",
     "repoUrl": "https://github.com/PerformanC/ReZygisk"
+  },
+  {
+    "id": "COPG",
+    "name": "✨ COPG Spoof ✨",
+    "description": "Ultimate Device Spoofer for Android Games/Apps + CPU Spoofer",
+    "author": "Alireza Parsi",
+    "repoUrl": "https://github.com/AlirezaParsi/COPG"
   }
 ]
