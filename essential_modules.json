@@ -26,12 +26,5 @@
     "description": "Software simulation for Android hardware-backed key pairs with key attestation",
     "author": "JingMatrix",
     "repoUrl": "https://github.com/JingMatrix/TEESimulator"
-  },
-  {
-    "id": "TA_utl",
-    "name": "Tricky Addon",
-    "description": "A WebUI to configure Tricky Store/TEESimulator target.txt",
-    "author": "KOWX712",
-    "repoUrl": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List"
   }
 ]
