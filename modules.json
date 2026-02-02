@@ -35,6 +35,20 @@
     "repoUrl": "https://github.com/PerformanC/ReZygisk"
   },
   {
+    "id": "lsposed",
+    "name": "LSPosed",
+    "description": "LSPosed Framework resuscitated",
+    "author": "JingMatrix",
+    "repoUrl": "https://github.com/JingMatrix/LSPosed"
+  },
+  {
+    "id": "pixelxpert",
+    "name": "PixelXpert",
+    "description": "mixed Xposed+Magisk module for customization of Google Pixel rom of Android 12+",
+    "author": "siavash79",
+    "repoUrl": "https://github.com/siavash79/PixelXpert"
+  },
+  {
     "id": "COPG",
     "name": "✨ COPG Spoof ✨",
     "description": "Ultimate Device Spoofer for Android Games/Apps + CPU Spoofer",
