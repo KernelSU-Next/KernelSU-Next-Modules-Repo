@@ -10,7 +10,7 @@
     "id": "mountify",
     "name": "Mountify",
     "description": "Globally mounted modules via OverlayFS.",
-    "author": "backslashxx, KOWX712",
+    "author": "xx, KOWX712",
     "repoUrl": "https://github.com/backslashxx/mountify"
   },
   {
