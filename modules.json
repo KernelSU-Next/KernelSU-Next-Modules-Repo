@@ -52,7 +52,7 @@
     "id": "susfs4ksu",
     "name": "SUSFS-FOR-KERNELSU",
     "description": "An addon root hiding service for KernelSU compiled with patched kernel source",
-    "author": "idex15 & simonpunk",
+    "author": "sidex15 & simonpunk",
     "repoUrl": "https://github.com/sidex15/susfs4ksu-module"
   }
 ]
