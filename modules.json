@@ -32,7 +32,8 @@
     "name": "ReZygisk",
     "description": "Standalone implementation of Zygisk",
     "author": "The PerformanC Organization",
-    "repoUrl": "https://github.com/PerformanC/ReZygisk"
+    "repoUrl": "https://github.com/PerformanC/ReZygisk",
+    "visibility": 0
   },
   {
     "id": "COPG",
