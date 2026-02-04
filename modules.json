@@ -76,7 +76,7 @@
   {
     "id": "brene",
     "name": "BRENE - SUSFS-FOR-KERNELSU",
-    "description": ",A SuSFS/KernelSU module for SuSFS patched kernels",
+    "description": "A SuSFS/KernelSU module for SuSFS patched kernels",
     "author": "rrr333nnn333, KOWX712, sidex15 & simonpunk",
     "repoUrl": "https://github.com/rrr333nnn333/BRENE",
     "license": "AGPL-3.0"
