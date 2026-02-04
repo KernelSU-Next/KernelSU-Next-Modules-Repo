@@ -50,6 +50,13 @@
     "repoUrl": "https://github.com/KOWX712/PlayIntegrityFix"
   },
   {
+    "id": "deviceidchanger",
+    "name": "DeviceID/SSAID Changer",
+    "description": "A simple WebUI Module to change SSAID/DeviceID on Rooted Android Devices with Apatch, KSU (And its forks), or Magisk.",
+    "author": "sidex15",
+    "repoUrl": "https://github.com/sidex15/deviceidchanger"
+  },
+  {
     "id": "susfs4ksu",
     "name": "SUSFS-FOR-KERNELSU",
     "description": "An addon root hiding service for KernelSU compiled with patched kernel source",
