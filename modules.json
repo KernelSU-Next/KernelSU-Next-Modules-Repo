@@ -82,6 +82,13 @@
     "license": "AGPL-3.0"
   },
   {
+    "id": "Yurikey",
+    "name": "Yuri Keybox Manager",
+    "description": "A systemless module to get strong integrity so easily",
+    "author": "Yuri, Tam and Yurikey Developers",
+    "repoUrl": "https://raw.githubusercontent.com/Yurii0307/yurikey",
+    "license": "GPL-3.0"
+  {
     "id": "zygisk_lsposed",
     "name": "LSPosed",
     "description": "Another enhanced implementation of Xposed Framework. Supports Android 8.1 ~ 16",
