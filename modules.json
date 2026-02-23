@@ -98,5 +98,12 @@
     "author": "KOWX712",
     "repoUrl": "https://github.com/KOWX712/Tricky-Addon-Update-Target-List",
     "license": "GPL-3.0"
+  },
+  {
+    "name": "Encore Tweaks",
+    "description": "Special performance module for your device",
+    "author": "Rem01Gaming",
+    "repoUrl": "https://github.com/Rem01Gaming/encore"
+    "license": "Apache-2.0"
   }
 ]
