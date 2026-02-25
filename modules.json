@@ -117,5 +117,12 @@
     "repoUrl": "https://github.com/ZG089/Re-Malwack/",
     "license": "GPL-3.0",
     "bannerUrl": "https://raw.githubusercontent.com/ZG089/Re-Malwack/main/module/banner.png"
+  },
+  {
+    "name": "Play Integrity Fork",
+    "description": "Fix <A13 Play Integrity DEVICE verdict",
+    "author": "osm0sis & chiteroman @ xda-developers",
+    "repoUrl": "https://github.com/osm0sis/PlayIntegrityFork",
+    "license": "GPL-3.0"
   }
 ]
