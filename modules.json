@@ -124,5 +124,12 @@
     "author": "osm0sis & chiteroman @ xda-developers",
     "repoUrl": "https://github.com/osm0sis/PlayIntegrityFork",
     "license": "GPL-3.0"
+  },
+  {
+    "name": "HyperUnlocked",
+    "description": "Unlock high-end Xiaomi features on all Xiaomi devices!",
+    "author": "ukriu",
+    "repoUrl": "https://github.com/ukriu/HyperUnlocked",
+    "license": "GPL-3.0"
   }
 ]
