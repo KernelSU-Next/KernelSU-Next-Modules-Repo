@@ -39,5 +39,13 @@
     "author": "KernelSU Developers",
     "repoUrl": "https://github.com/KernelSU-Modules-Repo/meta-overlayfs",
     "license": "GPL-3.0"
+  },
+  {
+    "id": "meta-zeromount",
+    "name": "ZeroMount",
+    "description": "Mountless VFS-level redirection with OverlayFS and Magic Mount fallback. SUSFS integration, WebUI, bootloop guard.",
+    "author": "Enginex0",
+    "repoUrl": "https://github.com/Enginex0/zeromount",
+    "license": "GPL-3.0"
   }
 ]
