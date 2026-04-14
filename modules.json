@@ -97,6 +97,13 @@
     "license": "GPL-3.0"
   },
   {
+    "name": "zygisk-detach",
+    "description": "Zygisk module to detach installed apps from Play Store, hooking binder",
+    "author": "j-hc",
+    "repoUrl": "https://github.com/j-hc/zygisk-detach",
+    "license": "Apache-2.0"
+  },
+  {
     "name": "Tricky Addon",
     "description": "A WebUI to configure Tricky Store/TEESimulator target.txt",
     "author": "KOWX712",
