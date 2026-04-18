@@ -133,5 +133,13 @@
     "repoUrl": "https://github.com/ukriu/HyperUnlocked",
     "license": "GPL-3.0",
     "bannerUrl": "https://raw.githubusercontent.com/ukriu/HyperUnlocked/refs/heads/main/banner/HyperUnlockedBanner.png"
+  },
+  {
+    "name": "MFGA",
+    "description": "System-wide Font Overrider with Unique GMS Masking & Multi-Range Unicode Filter",
+    "author": "Numbersf",
+    "repoUrl": "https://github.com/Numbersf/MakeFontsGreatAgain",
+    "license": "OFL-1.1",
+    "bannerUrl": "https://raw.githubusercontent.com/Numbersf/MakeFontsGreatAgain/main/banner.png"
   }
 ]
