@@ -155,5 +155,13 @@
     "repoUrl": "https://github.com/Numbersf/MakeFontsGreatAgain",
     "license": "OFL-1.1",
     "bannerUrl": "https://raw.githubusercontent.com/Numbersf/MakeFontsGreatAgain/main/banner.png"
-  }
+  },
+  {
+      "name": "FALCON INTEGRITY FIX",
+      "description": "Eagle eye protection for PUBG and high performance optimization 🦅",
+      "author": "ABUFARID",
+      "repoUrl": "https://github.com/AHMED2111X/AHMED2111X",
+      "license": "GPL-3.0",
+      "bannerUrl": "https://raw.githubusercontent.com/AHMED2111X/AHMED2111X/main/banner.png"
+    }
 ]
