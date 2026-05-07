@@ -82,12 +82,11 @@
     "license": "AGPL-3.0"
   },
   {
-    "name": "Yuri Keybox Manager",
-    "description": "A systemless module to get strong integrity so easily",
-    "author": "Yuri, Tam and Yurikey Developers",
-    "repoUrl": "https://github.com/Yurii0307/yurikey",
-    "license": "GPL-3.0",
-    "bannerUrl": "https://raw.githubusercontent.com/Yurii0307/yurikey/main/doc/banner.webp"
+    "name": "Specter",
+    "description": "Unified Play Integrity and root hiding stack for Android",
+    "author": "Dpejoh (Khx)",
+    "repoUrl": "https://github.com/dpejoh/specter",
+    "license": "GPL-3.0"
   },
   {
     "name": "Vector (LSP)",
