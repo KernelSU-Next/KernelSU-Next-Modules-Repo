@@ -12,5 +12,12 @@
     "name": "Tricky Store",
     "repoUrl": "https://github.com/5ec1cff/TrickyStore",
     "description": "A trick of keystore"
+  },
+  {
+    "author": "sarhan00"
+    "license": "Closed-Source"
+    "name": "Play Integrity Fix - Strong Integrity🔥"
+    "repoUrl": "https://github.com/sarhan00/Strong-Integrity-Fix"
+    "description": "Advanced Play Integrity fix with Strong Integrity support | Compatible with all Android versions | Enhanced security & performance | Made with ❤️"
   }
 ]
