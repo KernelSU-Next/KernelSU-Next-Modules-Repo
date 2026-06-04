@@ -1,5 +1,13 @@
 [
   {
+    "name": "Cool Terminal",
+    "description": "A beautiful ParrotOS Style prompt for Android.",
+    "author": "One4Lots",
+    "repoUrl": "https://github.com/One4Lots/Cool_Terminal",
+    "license": "GPL-2.0",
+    "bannerUrl": "https://raw.githubusercontent.com/One4Lots/Cool_Terminal/refs/heads/master/.asset/banner.png"
+  },
+  {
     "name": "KPatch Next",
     "description": "Standalone implementation of KPM support for Magisk/KernelSU",
     "author": "rifsxd, KOWX712",
