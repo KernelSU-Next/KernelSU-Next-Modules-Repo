@@ -135,7 +135,7 @@
   },
   {
     "name": "Play Integrity Fork",
-    "description": "Fix <A13 Play Integrity DEVICE verdict",
+    "description": "Fix Play Integrity <A13 verdicts and Google Wallet/RCS on Android 7+",
     "author": "osm0sis & chiteroman @ xda-developers",
     "repoUrl": "https://github.com/osm0sis/PlayIntegrityFork",
     "license": "GPL-3.0"
