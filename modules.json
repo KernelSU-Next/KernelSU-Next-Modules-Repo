@@ -162,5 +162,12 @@
     "author": "James Clef",
     "repoUrl": "https://github.com/qwq233/OhMyKeymint",
     "license": "AGPL-3.0"
+  },
+  {
+    "name": "HMA-OSS",
+    "description": "A Zygisk backend for HMA-OSS",
+    "author": "frknkrc44",
+    "repoUrl": "https://github.com/frknkrc44/HMA-OSS",
+    "license": "AGPL-3.0"
   }
 ]
