@@ -155,5 +155,12 @@
     "repoUrl": "https://github.com/Numbersf/MakeFontsGreatAgain",
     "license": "OFL-1.1",
     "bannerUrl": "https://raw.githubusercontent.com/Numbersf/MakeFontsGreatAgain/main/banner.png"
+  },
+  {
+    "name": "OhMyKeymint",
+    "description": "Custom keystore implementation for Android Keystore Spoofer",
+    "author": "James Clef",
+    "repoUrl": "https://github.com/qwq233/OhMyKeymint",
+    "license": "AGPL-3.0"
   }
 ]
