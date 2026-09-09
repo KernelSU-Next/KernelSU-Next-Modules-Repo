@@ -169,5 +169,19 @@
     "author": "frknkrc44",
     "repoUrl": "https://github.com/frknkrc44/HMA-OSS",
     "license": "AGPL-3.0"
+  },
+  {
+    "name": "Frida Server for KernelSU",
+    "description": "Runs the official Frida Server under a Rust supervisor, with a Material 3 WebUI",
+    "author": "MiChongs",
+    "repoUrl": "https://github.com/MiChongs/Frida-RS",
+    "license": "Unknown"
+  },
+  {
+    "name": "MagiskFrida",
+    "description": "Run frida-server on boot, always up-to-date",
+    "author": "ViRb3",
+    "repoUrl": "https://github.com/ViRb3/magisk-frida",
+    "license": "Unknown"
   }
 ]
