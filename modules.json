@@ -183,5 +183,20 @@
     "author": "ViRb3",
     "repoUrl": "https://github.com/ViRb3/magisk-frida",
     "license": "Unknown"
+  },
+  {
+    "name": "Specter",
+    "description": "Unified Play Integrity and root hiding stack for Android",
+    "author": "dpejoh",
+    "repoUrl": "https://github.com/dpejoh/specter",
+    "license": "GPL-3.0"
+  },
+  {
+    "name": "Universal GMS Doze",
+    "description": "Patches Google Play services and certain processes/services to be able to use battery optimization",
+    "author": "gloeyisk",
+    "repoUrl": "https://github.com/gloeyisk/universal-gms-doze",
+    "license": "GPL-2.0"
   }
-]
+  ]
+
