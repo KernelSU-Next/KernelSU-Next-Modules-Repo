@@ -53,7 +53,7 @@
     "name": "AnyMeta",
     "description": "Switch KernelSU metamodule backends without losing module data; dependency-aware installs, Git builds, cache, backups, and WebUI.",
     "author": "LIghtJUNction",
-    "repoUrl": "https://github.com/LIghtJUNction/AnyMeta",
+    "repoUrl": "https://github.com/KernelSU-Modules-Repo/AnyMeta",
     "license": "MIT"
   }
 ]
