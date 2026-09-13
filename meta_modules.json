@@ -47,5 +47,13 @@
     "author": "Enginex0",
     "repoUrl": "https://github.com/Enginex0/zeromount",
     "license": "GPL-3.0"
+  },
+  {
+    "id": "AnyMeta",
+    "name": "AnyMeta",
+    "description": "Switch KernelSU metamodule backends without losing module data; dependency-aware installs, Git builds, cache, backups, and WebUI.",
+    "author": "LIghtJUNction",
+    "repoUrl": "https://github.com/LIghtJUNction/AnyMeta-ksu",
+    "license": "MIT"
   }
 ]
