@@ -46,6 +46,14 @@
     "description": "Mountless VFS-level redirection with OverlayFS and Magic Mount fallback. SUSFS integration, WebUI, bootloop guard.",
     "author": "Enginex0",
     "repoUrl": "https://github.com/Enginex0/zeromount",
-    "license": "GPL-3.0"
+    "license": "GPL-3.0"  
+  },
+  {
+    "id": "nomount",
+    "name": "NoMount",
+    "description": "A metamodule that replaces OverlayFS/MagicMount with VFS path redirection.",
+    "author": "maxsteeel",
+    "repoUrl": "https://github.com/maxsteeel/nomount",
+    "license": "GPL-3.0"  
   }
 ]
