@@ -183,5 +183,23 @@
     "author": "ViRb3",
     "repoUrl": "https://github.com/ViRb3/magisk-frida",
     "license": "Unknown"
-  }
+  },
+    {
+    "name": "HyperOS MIUI Debloater",
+    "description": "Debloats system apps and services systemlessly: safely removes unnecessary bloatware, background telemetry, and ad frameworks across HyperOS and MIUI for better battery life, RAM management, and system smoothness.",
+    "author": " 𓏲࣪➳𓂃🍫🌲•Ṽίຮʰ𝖚•🦈🌲°᭄☆",
+    "repoUrl": "https://github.com/div-vishal-07/HyperOS-Miui_Debloater_Plugin-Module",
+    "license": "MIT",
+    "bannerUrl": "https://raw.githubusercontent.com/div-vishal-07/HyperOS-Miui_Debloater_Plugin-Module/main/vishal.png",
+    "visibility": 1
+    },
+    {
+    "name": "Samsung OneUI Debloater",
+    "description": "Debloats or rebloats Samsung OneUI systemlessly: safely strip bloatware, telemetry, and background services, or restore stock apps on demand without losing user data.",
+    "author": "𓏲࣪➳𓂃🍫🌲•Ṽίຮʰ𝖚•🦈🌲°᭄☆",
+    "repoUrl": "https://github.com/div-vishal-07/Samsung-OneUI_Debloater_Plugin-Module",
+    "license": "MIT",
+    "bannerUrl": "https://raw.githubusercontent.com/div-vishal-07/Samsung-OneUI_Debloater_Plugin-Module/main/vishal_oneui.png",
+    "visibility": 1
+    }
 ]
