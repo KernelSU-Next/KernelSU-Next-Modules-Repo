@@ -3,7 +3,7 @@
     "author": "5ec1cff, Nullptr",
     "license": "Closed-Source",
     "name": "Zygisk Next",
-    "repoUrl": "https://github.com/Dr-TSNG/ZygiskNext",
+    "repoUrl": "https://github.com/LSPosed/ZygiskNext",
     "description": "Standalone implementation of Zygisk"
   },
   {
