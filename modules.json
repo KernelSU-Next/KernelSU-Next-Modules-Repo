@@ -183,5 +183,12 @@
     "author": "ViRb3",
     "repoUrl": "https://github.com/ViRb3/magisk-frida",
     "license": "Unknown"
+  },
+  {
+    "name": "ClearBox",
+    "description": "A Magisk module dedicated to automatic cleaning and optimization of Android",
+    "author": "FlyCome",
+    "repoUrl": "https://github.com/FLYCOM-E/ClearBox",
+    "license": "GPL-3.0"
   }
 ]
