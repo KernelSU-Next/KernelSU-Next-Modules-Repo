@@ -183,5 +183,12 @@
     "author": "ViRb3",
     "repoUrl": "https://github.com/ViRb3/magisk-frida",
     "license": "Unknown"
+  },
+  {
+    "name": "XGoogle companion",
+    "description": "Companion for the XGoogle LSPosed module: Hey Google, Circle to Search from the navigation handle, live translate and Android Auto on the Xiaomi HyperOS China ROM",
+    "author": "Leekin",
+    "repoUrl": "https://github.com/Leekin2/XGoogle",
+    "license": "GPL-3.0"
   }
 ]
