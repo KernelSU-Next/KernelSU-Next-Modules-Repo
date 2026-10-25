@@ -183,5 +183,12 @@
     "author": "ViRb3",
     "repoUrl": "https://github.com/ViRb3/magisk-frida",
     "license": "Unknown"
+  },
+  {
+    "name": "Apple-electrocution-bootanimation",
+    "description": "Apple electrocution bootanimation for google pixel",
+    "author": "Axy0n",
+    "repoUrl": "https://github.com/axy0n-qli/Apple-electrocution-bootanimation",
+    "license": "GPL-3.0"
   }
 ]
