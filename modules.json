@@ -183,5 +183,13 @@
     "author": "ViRb3",
     "repoUrl": "https://github.com/ViRb3/magisk-frida",
     "license": "Unknown"
+  },
+  {
+    "name": "FALCON INTEGRITY FIX",
+    "description": "Play Integrity fix with Tricky Store OSS, dual keybox slots and a full WebUI companion",
+    "author": "ABUFARID",
+    "repoUrl": "https://github.com/AHMED2111X/AHMED2111X",
+    "license": "GPL-3.0",
+    "bannerUrl": "https://raw.githubusercontent.com/AHMED2111X/AHMED2111X/main/banner.png"
   }
 ]
