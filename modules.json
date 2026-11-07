@@ -188,8 +188,8 @@
     "name": "FALCON INTEGRITY FIX",
     "description": "Play Integrity fix with Tricky Store OSS, dual keybox slots and a full WebUI companion — Android 10-17, KernelSU / KernelSU Next / Magisk / APatch",
     "author": "ABUFARID",
-    "repoUrl": "https://github.com/AHMED2111X/AHMED2111X",
+    "repoUrl": "https://github.com/AHMED2111X/falcon_integrity_fix",
     "license": "GPL-3.0",
-    "bannerUrl": "https://raw.githubusercontent.com/AHMED2111X/AHMED2111X/main/banner.png"
+    "bannerUrl": "https://raw.githubusercontent.com/AHMED2111X/falcon_integrity_fix/main/banner.png"
   }
 ]
