@@ -183,5 +183,13 @@
     "author": "ViRb3",
     "repoUrl": "https://github.com/ViRb3/magisk-frida",
     "license": "Unknown"
+  },
+  {
+    "name": "FALCON INTEGRITY FIX",
+    "description": "Keystore hooked with Tricky Store OSS, a working keybox included, PlayIntegrityFork keeps the Pixel fingerprint fresh, plus the FALCON TRICKY Web UI. Android 10-17, Magisk / KernelSU / KernelSU Next / APatch.",
+    "author": "ABUFARID",
+    "repoUrl": "https://github.com/AHMED2111X/falcon_integrity_fix",
+    "license": "GPL-3.0",
+    "bannerUrl": "https://raw.githubusercontent.com/AHMED2111X/falcon_integrity_fix/main/banner.png"
   }
 ]
