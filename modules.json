@@ -183,5 +183,12 @@
     "author": "ViRb3",
     "repoUrl": "https://github.com/ViRb3/magisk-frida",
     "license": "Unknown"
+  },
+  {
+    "name": "SusDock",
+    "description": "A SuSFS Manager for LKM Setups",
+    "author": "Nix24",
+    "repoUrl": "https://github.com/Nixie24/susdock",
+    "license": "GPL-2.0-only"
   }
 ]
