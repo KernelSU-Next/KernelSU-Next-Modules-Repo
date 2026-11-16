@@ -183,5 +183,13 @@
     "author": "ViRb3",
     "repoUrl": "https://github.com/ViRb3/magisk-frida",
     "license": "Unknown"
-  }
+  },
+    {
+    "name": "Sortify",
+    "description": "Automatically organizes Android downloads with preview, custom rules, duplicate detection, and Undo.",
+    "author": "xCaptaiN09",
+    "repoUrl": "https://github.com/xCaptaiN09/Sortify",
+    "license": "MIT",
+    "bannerUrl": "https://raw.githubusercontent.com/xCaptaiN09/Sortify/main/banner.png"
+    }
 ]
