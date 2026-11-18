@@ -183,5 +183,13 @@
     "author": "ViRb3",
     "repoUrl": "https://github.com/ViRb3/magisk-frida",
     "license": "Unknown"
+  },
+  {
+    "name": "Power11",
+    "description": "Bring back the old gem from Android 11. The classic AOSP power menu on HyperOS",
+    "author": "Luigi Colantuono",
+    "repoUrl": "https://github.com/LuigiColantuono/Power11",
+    "license": "MIT",
+    "bannerUrl": "https://raw.githubusercontent.com/LuigiColantuono/Power11/main/module/banner.png"
   }
 ]
