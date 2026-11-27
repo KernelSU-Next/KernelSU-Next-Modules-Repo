@@ -183,5 +183,12 @@
     "author": "ViRb3",
     "repoUrl": "https://github.com/ViRb3/magisk-frida",
     "license": "Unknown"
+  },
+  {
+    "name": "RKP Manufacturer Auto-Match",
+    "description": "Auto-detect RKP keybox map[3] manufacturer and match props at boot with Zygisk per-app restore",
+    "author": "Najip",
+    "repoUrl": "https://github.com/Najip/RKP-Mfr-Auto-Match",
+    "license": "GPL-3.0"
   }
 ]
